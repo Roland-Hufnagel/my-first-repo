@@ -3,3 +3,8 @@ Some keywords that I should remember for later are: git, GitHub, version control
 commit and hash. The next 3 months will be a very exciting time, as I will learn new things every day.
 
 My hobbies are music and baseball.
+
+Todos:
+Buy milk
+Wash car
+go with the dog
